@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @keerthanaharidasofficial
-- 👀 I’m interested in #Software development #DataScience #Machine learning
+- 👀 I’m interested in
+-                    #Software development #Python
+-                      #DataScience #Machine learning #Image Processing
 - 🌱 I’m currently learning #Python Django Angular Full stack Web Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 reach me #... keerthanaofficial.haridas@gmail.com
 
 <!---
 keerthanaharidasofficial/keerthanaharidasofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
